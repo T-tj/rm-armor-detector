@@ -1,0 +1,8 @@
+# 核心视觉库
+opencv-python>=4.5.0
+
+# 深度学习 YOLO 框架
+ultralytics>=8.0.0
+
+# 矩阵运算与基础库 (OpenCV 和 YOLO 依赖)
+numpy>=1.20.0
