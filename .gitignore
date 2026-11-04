@@ -51,6 +51,7 @@ sandbox/output/
 *.jpeg
 *.webp
 *.jpg
+!docs/*.png
 
 # ===== YOLO 训练/推理默认输出目录 =====
 runs/
